@@ -29,6 +29,20 @@
         https://robertpichecastro.github.io/rss-centro/noticia2.html
       </guid>
     </item>
+    
+<item>
+  <title>Inicio del nuevo curso escolar</title>
+  <description><![CDATA[
+    El nuevo curso escolar comenzará el 19 de febrero. Se recomienda revisar horarios.
+  ]]></description>
+  <link>https://robertpichecastro.github.io/rss-centro/noticia3.html</link>
+  <pubDate>Thu, 19 Feb 2026 08:00:00 +0100</pubDate>
+  <author>secretaria@iessierrademadrid.es</author>
+  <category>Educación</category>
+  <guid isPermaLink="true">
+    https://robertpichecastro.github.io/rss-centro/noticia3.html
+  </guid>
+</item>
 
   </channel>
 </rss>
