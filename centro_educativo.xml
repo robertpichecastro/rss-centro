@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias - IES Sierra de Madrid</title>
+    <link>https://robertpichecastro.github.io/rss-centro/</link>
+    <description>Canal RSS con noticias y avisos del IES Sierra de Madrid.</description>
+    <language>es-es</language>
+
+    <item>
+      <title>Jornada de puertas abiertas</title>
+      <description><![CDATA[
+        El centro celebrará una jornada de puertas abiertas para familias y futuros estudiantes.
+      ]]></description>
+      <link>https://robertpichecastro.github.io/rss-centro/noticia1.html</link>
+      <pubDate>Tue, 17 Feb 2026 09:00:00 +0100</pubDate>
+      <guid isPermaLink="true">
+        https://robertpichecastro.github.io/rss-centro/noticia1.html
+      </guid>
+    </item>
+
+    <item>
+      <title>Reunión informativa de becas</title>
+      <description><![CDATA[
+        Reunión informativa sobre becas y ayudas disponibles para estudiantes.
+      ]]></description>
+      <link>https://robertpichecastro.github.io/rss-centro/noticia2.html</link>
+      <pubDate>Wed, 18 Feb 2026 16:30:00 +0100</pubDate>
+      <guid isPermaLink="true">
+        https://robertpichecastro.github.io/rss-centro/noticia2.html
+      </guid>
+    </item>
+
+  </channel>
+</rss>
